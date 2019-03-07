@@ -1,0 +1,6 @@
+argparse
+torch
+Pillow
+torchvision
+requests
+io
