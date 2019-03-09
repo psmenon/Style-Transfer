@@ -20,6 +20,7 @@ For more details please refer original [paper](https://arxiv.org/abs/1508.06576)
   conda create --name name_of_environment python=3.6
   source activate name_of_environment
   ```
+  
 (2) Clone repository and install dependencies
 
 ```bash
