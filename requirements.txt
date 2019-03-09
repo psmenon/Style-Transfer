@@ -2,5 +2,4 @@ argparse
 torch
 Pillow
 torchvision
-requests
-io
+numpy
