@@ -17,19 +17,20 @@ For more details please refer original [paper](https://arxiv.org/abs/1508.06576)
 (1) Create and activate a Python 3.6 environment using Anaconda:
    
   ```bash
-  conda create --name name_of_environment python=3.6
-  source activate name_of_environment
+  $ conda create --name name_of_environment python=3.6
+  $ source activate name_of_environment
   ```
   
 (2) Clone repository and install dependencies
 
-```bash
-git clone https://github.com/psmenon/Style-Transfer.git
-pip install -r requirements.txt
-```
+  ```bash
+  $ git clone https://github.com/psmenon/Style-Transfer.git
+  $ pip install -r requirements.txt
+  ```
 
 (3) Run the script 
-```bash
-$ python main.py --content=name_of_content_image --style=name_of_style_image
-```
+
+  ```bash
+  $ python main.py --content=name_of_content_image --style=name_of_style_image
+  ```
 
